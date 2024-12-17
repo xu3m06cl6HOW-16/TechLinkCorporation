@@ -1,0 +1,32 @@
+package java2_3;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+public class Lotto100ToFile {
+
+	
+	public static void main(String[] args) throws IOException {
+		
+		FileWriter fw=new FileWriter("src\\java2_3\\Random.txt",true);
+		BufferedWriter bw=new BufferedWriter(fw);
+		PrintWriter pw=new PrintWriter(bw);
+		
+		
+		LottoProduceTool lpt =new LottoProduceTool();
+		
+		for(int i=1;i<=100;i++) {
+			pw.println(lpt.playLotto());	
+		
+			pw.flush();
+		}
+		
+		pw.close();
+		bw.close();
+		fw.close();
+		
+	}
+
+}

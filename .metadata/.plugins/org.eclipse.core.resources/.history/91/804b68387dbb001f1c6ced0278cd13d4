@@ -1,0 +1,20 @@
+package java2_2;
+
+public class IdProduce {
+	
+	public static void main(String[] args) {
+		
+		IdProduce ipd = new IdProduce();
+		System.out.println(ipd.idCardProduce());
+		
+	}
+	
+	public String idCardProduce() {
+		
+		char t=(char) ((int)(Math.random() * 26)+65);
+		System.out.println(t);
+		
+		return null;
+	}
+
+}

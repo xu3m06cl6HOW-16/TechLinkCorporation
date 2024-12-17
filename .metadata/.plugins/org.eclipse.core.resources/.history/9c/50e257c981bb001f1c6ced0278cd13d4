@@ -1,0 +1,42 @@
+package java2_2;
+
+import java.util.Arrays;
+import java.util.Set;
+import java.util.TreeSet;
+
+//3、4題合併-大樂透隨機號碼
+public class LotteryTicket {
+
+	public static void main(String[] args) {
+		
+		LotteryTicket lt =new LotteryTicket();
+		
+		System.out.println("大樂透號碼為:"+Arrays.toString(lt.playLotto()));
+
+	}
+	
+	public String[] playLotto() {
+		
+		int i=0;
+		String[] lotto =new String[6];
+		
+		Set<Integer> loSet= new TreeSet<Integer>();
+		
+		while(loSet.size()<6) {
+			int j =(int)((Math.random()*48)+1);
+			loSet.add(j);
+		}
+				
+		for(int a :loSet) {
+			if(a<10) {
+				lotto[i]=String.valueOf("0"+a);
+			}else {
+				lotto[i]=String.valueOf(a);
+			}
+			i++;
+		}
+		
+		return lotto;
+	}
+
+}

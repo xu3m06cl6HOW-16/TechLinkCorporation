@@ -1,0 +1,68 @@
+package techLink;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class GuessTheNumber {
+	
+	static char[] checkNum=new char[4];
+	static boolean answer=true;
+	
+	public static void main(String[] args) {
+		
+		String num,iNum;
+		
+		Scanner sc=new Scanner(System.in);
+		System.out.println("請輸入題目四位數:");
+		num=sc.nextLine();
+		
+		for(int i=0;i<4;i++) {
+			checkNum[i] = num.charAt(i);
+		}
+		
+		while(answer) {
+			System.out.println("請輸入猜題四位數:");
+			iNum=sc.nextLine();
+			
+			GuessTheNumber gtn=new GuessTheNumber();
+			gtn.myNumber(iNum);
+		}
+		System.out.println("恭喜答對了!答案為:"+num);
+		
+	}
+	
+	
+	public boolean myNumber(String num) {
+		
+		int x=0,z=0;
+		
+		char[] guessNum=new char[4];
+		
+		for(int i=0;i<4;i++) {
+			guessNum[i]=num.charAt(i);
+		}
+		
+		for(int i=0;i<4;i++) {
+			for(int j=0;j<4;j++) {
+				if(guessNum[j]==checkNum[i]&&j==i) {
+					x+=1;
+					break;
+				}
+				else if(guessNum[j]==checkNum[i]) {
+					z+=1;
+				}
+			}
+		}
+		String FinNum=x+"A"+z+"B";
+		System.out.println(FinNum);
+		if("4A0B".equals(FinNum)) {
+			answer=false;
+			return answer;
+			
+		}else {
+			return answer;
+		}
+		
+	}
+
+}

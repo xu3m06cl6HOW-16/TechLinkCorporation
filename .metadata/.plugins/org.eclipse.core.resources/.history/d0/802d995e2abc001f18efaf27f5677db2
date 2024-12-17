@@ -1,0 +1,17 @@
+package java2_3;
+
+public class Test {
+	
+	static int a=20;
+	
+	static {
+		a=5;
+		System.out.println("我是代碼塊"+a);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

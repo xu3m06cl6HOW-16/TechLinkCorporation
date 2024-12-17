@@ -1,0 +1,14 @@
+package java2_3;
+
+public class Lotto100ToFile {
+
+	public static void main(String[] args) {
+
+		String filePath = "example.txt";
+		
+		LottoProduceTool lpt =new LottoProduceTool();
+		lpt.main(args);
+		
+	}
+
+}

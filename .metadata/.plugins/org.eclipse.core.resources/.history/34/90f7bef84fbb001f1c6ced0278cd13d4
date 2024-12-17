@@ -1,0 +1,19 @@
+package techLink;
+
+//亂數分類
+public class Random {
+	
+	public static void main(String[] args) {
+		
+		int k;
+		int[] ranList = new int[20];
+		
+		for(int i=1;i<=20;i++) {
+			k=(int)(Math.random()*100)+1;
+			ranList[i-1]=k;
+		}
+		
+		System.out.println(ranList.toString());
+	}
+
+}

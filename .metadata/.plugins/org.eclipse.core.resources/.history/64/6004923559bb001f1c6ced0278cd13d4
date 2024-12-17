@@ -1,0 +1,59 @@
+package techLink;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class GuessTheNumber {
+	
+	static char[] checkNum=new char[4];
+	
+	public static void main(String[] args) {
+		
+		int num,iNum;
+		
+		Scanner sc=new Scanner(System.in);
+		System.out.println("請輸入題目四位數:");
+		num=sc.nextInt();
+		
+		String numStr = Integer.toString(num);
+		
+		for(int i=0;i<4;i++) {
+			checkNum[i] = numStr.charAt(i);
+		}
+		
+		System.out.println("請輸入猜題四位數:");
+		iNum=sc.nextInt();
+		
+		GuessTheNumber gtn=new GuessTheNumber();
+		gtn.myNumber(iNum);
+	}
+	
+	
+	public void myNumber(int num) {
+		
+		int x=0,z=0;
+		
+		char[] guessNum=new char[4];
+		String myNum=Integer.toString(num);
+		for(int i=0;i<4;i++) {
+			guessNum[i]=myNum.charAt(i);
+		}
+		
+		for(int i=0;i<4;i++) {
+			for(int j=0;j<4;j++) {
+				if(guessNum[j]==checkNum[i]&&i==j) {
+					x+=1;
+					break;
+				}else if(guessNum[j]==checkNum[i]) {
+					j+=1;
+					break;
+				}
+			}
+			
+		}
+		
+		System.out.println(x+"A"+z+"B");
+		
+	}
+
+}

@@ -1,0 +1,78 @@
+package java2_2;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+//身分證驗證
+public class IdVerify {
+	
+	static int idLength;
+	static String idCard;
+	
+	public static void main(String[] args) {
+		
+		String successId = "^[A-Z][12]\\d{8}$";
+		
+		IdVerify idv=new IdVerify();
+		
+		Pattern pattern = Pattern.compile(successId);
+		Matcher matcher = pattern.matcher(idv.idCardVerification());
+		
+		if(matcher.matches()) {
+			System.out.println("身分證格式正確!");
+		}else {
+			System.out.println("身分證格式錯誤!");
+		}
+		
+		System.out.println("=======以下為第五題=====");
+		
+		System.out.println(idLength);
+		String[] idLengthArr= new String[idLength]; 
+		
+		for(int i=0;i<idLength;i++) {
+			idLengthArr[i]=Character.toString(idCard.charAt(i));
+		}
+		System.out.println(Arrays.toString(idLengthArr));
+	
+	}
+	
+	//1.第一題
+	public String idCardVerification() {
+		
+		Scanner sc=new Scanner(System.in);
+		System.out.println("請輸入要驗證的身分證字號:");
+		idCard=sc.nextLine();
+		
+		idLength=idCard.length();
+		
+		sc.close();
+		
+		return idCard;
+	}
+	
+	//5.把第一題回傳字串放入此方法
+	public ArrayList playLottoList(String[] lotto) {
+		
+		IdVerify idv=new IdVerify();
+		String id=idv.idCardVerification();
+		
+		System.out.println(id);
+		
+//		for(int i=0;i<id.length();i++) {
+//			lotto[i]=id.charAt(i);
+//		}
+//		
+//		ArrayList<String> list=new ArrayList<String>();
+//		
+//		for(String i:lotto) {
+//			list.add(i);
+//		}
+		
+		return null;
+		
+	}
+
+}
