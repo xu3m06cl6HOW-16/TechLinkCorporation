@@ -7,7 +7,7 @@ import java.util.TreeSet;
 //Set產生大樂透(4、6題合併)
 public class ArraysLotteryTicket {
 	
-	static TreeSet loSet = new TreeSet();
+	static TreeSet<String> loSet = new TreeSet<String>();
 
 	public static void main(String[] args) {
 		
@@ -25,22 +25,19 @@ public class ArraysLotteryTicket {
 	}
 	
 	//第四題
-	public TreeSet playLottoSet() {
+	public TreeSet<String> playLottoSet() {
 		
 		while(loSet.size()<6) {
 			int j =(int)((Math.random()*48)+1);
-			if(j<10) {
-				loSet.add(String.valueOf("0"+j));
-			}else {
-				loSet.add(String.valueOf(j));
-			}
+	
+			loSet.add(String.format("%02d", Integer.parseInt(String.valueOf(j))));	
 		}
 		
 		return loSet;
 	}
 	
 	//第六題
-	public HashMap playLottoMap(TreeSet lotto) {
+	public HashMap<Integer,String> playLottoMap(TreeSet<String> lotto) {
 		
 		HashMap<Integer,String> map=new HashMap<Integer,String>();
 		int i=1;

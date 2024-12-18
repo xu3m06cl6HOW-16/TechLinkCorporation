@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-//身分證驗證(1、5題合併)
+//身分證驗證(1)
 public class IdVerify {
 	
 	static int idLength;
@@ -26,18 +26,6 @@ public class IdVerify {
 		}else {
 			System.out.println("身分證格式錯誤!");
 		}
-		
-		System.out.println("=======以下為第五題=====");
-	
-		String[] idLengthArr= new String[idLength]; 
-		for(int i=0;i<idLength;i++) {
-			idLengthArr[i]=Character.toString(idCard.charAt(i));
-		}
-		ArrayList<String> list = idv.playLottoList(idLengthArr);
-		for(String i:list) {
-			System.out.print(i);
-		}
-	
 	}
 	
 	//1.第一題
@@ -52,19 +40,6 @@ public class IdVerify {
 		sc.close();
 		
 		return idCard;
-	}
-	
-	//5.把第一題回傳字串放入此方法
-	public ArrayList playLottoList(String[] lotto) {
-		
-		ArrayList<String> list=new ArrayList<String>();
-			
-		for(int i=0;i<lotto.length;i++) {
-			list.add(lotto[i]);
-		}		
-		
-		return list;
-		
 	}
 
 }
