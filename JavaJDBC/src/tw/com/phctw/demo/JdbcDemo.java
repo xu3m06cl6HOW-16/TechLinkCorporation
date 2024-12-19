@@ -1,4 +1,4 @@
-package tw.com.phctw.demp;
+package tw.com.phctw.demo;
 
 import java.util.Scanner;
 
