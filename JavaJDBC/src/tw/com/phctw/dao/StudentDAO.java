@@ -1,10 +1,10 @@
-package tw.com.phctw.service;
+package tw.com.phctw.dao;
 
 import java.util.List;
 
 import tw.com.phctw.bean.Student;
 
-public interface StudentService {
+public interface StudentDAO {
 	
 	Boolean insertStudent(Student student);
 	
