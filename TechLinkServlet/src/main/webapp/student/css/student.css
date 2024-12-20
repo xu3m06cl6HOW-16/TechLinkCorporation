@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* 水平置中 */
+    align-items: center;    /* 垂直置中 */
+    background-color: #f4f4f4; /* 背景顏色 */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center; /* 文字置中 */
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#stuSub {
+    display: block;
+    margin-left: 0;
+}

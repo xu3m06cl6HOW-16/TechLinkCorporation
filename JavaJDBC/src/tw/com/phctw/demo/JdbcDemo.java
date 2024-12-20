@@ -18,8 +18,8 @@ public class JdbcDemo {
 		do {
 			System.out.println("請選擇學生資料表的功能: 0.離開 1.查詢 2.新增 3.修改 4.刪除");
 			int chooseNum = sc.nextInt();
-			sc.nextLine(); // 清除換行符
-			if(chooseNum!=0) {
+			sc.nextLine();
+			if(chooseNum!=0 && chooseNum <5) {
 				
 				JdbcDemo jdbcDemo =new JdbcDemo();
 				switch(chooseNum){
@@ -39,6 +39,7 @@ public class JdbcDemo {
 						String usno = sc.nextLine();
 						jdbcDemo.updateStudent(jdbcDemo.scan(usno));
 						break;
+						
 					case 4:
 						System.out.println("請輸入要刪除的學生編號:");
 						String dsno = sc.nextLine();
@@ -57,6 +58,7 @@ public class JdbcDemo {
 	}
 	
 	public void insertStudent(Student st) {
+		
 		Boolean inSuccess = stSer.insertStudent(st);
 		if(inSuccess == true) {
 			System.out.println("新增成功...");
