@@ -9,7 +9,6 @@
     <fullyQualifiedTypeName name="java2_2.ArraysLotteryTicket"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java2_3.Lotto100ToFile"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
     <fullyQualifiedTypeName name="java2_3.LottoProduceTool"/>
@@ -32,9 +31,19 @@
     <fullyQualifiedTypeName name="tw.com.phctw.service.StudentService"/>
     <fullyQualifiedTypeName name="tw.com.phctw.service.StudentServiceImpl"/>
     <fullyQualifiedTypeName name="tw.com.phctw.dao.StudentDAOImpl"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="tw.com.phctw.demp.JdbcDemo"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="student.dao.StudentDAO"/>
+    <fullyQualifiedTypeName name="student.service.StudentService"/>
+    <fullyQualifiedTypeName name="java.util.UUID"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="student.service.serviceImpl.StudentServiceImpl"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="student.bean.Student"/>
 </qualifiedTypeNameHistroy>
