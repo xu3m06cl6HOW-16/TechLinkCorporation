@@ -8,6 +8,13 @@
 	<packaging>war</packaging>
 
 	<dependencies>
+		<dependency>
+			<groupId>com.sun.mail</groupId>
+			<artifactId>javax.mail</artifactId>
+			<version>1.6.2</version>
+		</dependency>
+
+
 		<!-- JSTL -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
