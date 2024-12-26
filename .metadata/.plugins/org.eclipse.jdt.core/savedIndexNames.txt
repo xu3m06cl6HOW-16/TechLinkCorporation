@@ -8,6 +8,5 @@ INDEX VERSION 1.134+C:\Eclipse Workspace\.metadata\.plugins\org.eclipse.jdt.core
 1098844294.index
 897840157.index
 2859078612.index
-1018093754.index
 3867627643.index
 3238515867.index

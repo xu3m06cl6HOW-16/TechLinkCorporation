@@ -51,7 +51,7 @@ public class UserServiceImpl implements UserService {
 		//發送密碼
 		String subject = "密碼通知";//主旨
 
-		String ch_name = "peter1";
+		String ch_name = userAccount;
 		String passRandom = "111";
 		String messageText = "Hello! " + ch_name + " 請謹記此密碼: " + passRandom + "\n" + " (已經啟用)";
 
