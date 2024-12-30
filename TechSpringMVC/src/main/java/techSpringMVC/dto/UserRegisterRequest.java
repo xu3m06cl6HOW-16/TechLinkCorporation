@@ -1,5 +1,6 @@
 package techSpringMVC.dto;
 
+import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
 
 public class UserRegisterRequest {
@@ -14,6 +15,7 @@ public class UserRegisterRequest {
 	private String userPass;
 
 	@NotBlank
+	@Email
 	private String userEmail;
 	
 	
