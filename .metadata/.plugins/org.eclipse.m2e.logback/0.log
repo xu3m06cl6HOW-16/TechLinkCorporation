@@ -8156,3 +8156,891 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact proxool:proxo
 2024-12-30 17:51:57,239 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_JSP\src\test\resources
 2024-12-30 17:53:54,909 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2024-12-30 17:53:54,911 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_JSP\src\test\resources
+2024-12-30 18:09:32,393 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-12-30 18:09:32,395 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_JSP\src\test\resources
+2024-12-31 09:20:55,056 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-31 11:27:59,746 [Worker-27: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-01 22:30:54,536 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-01 22:31:20,940 [Worker-3: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 09:58:49,577 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 09:58:49,588 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_JSP\src\test\resources
+2025-01-02 10:10:07,150 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-02 10:10:07,150 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-02 10:10:07,151 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-02 10:10:07,168 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-02 10:10:07,172 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-02 10:10:07,172 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-02 10:10:07,172 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-01-02 10:16:39,344 [Worker-77: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:16:40,124 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.pom
+2025-01-02 10:16:40,136 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.pom
+2025-01-02 10:16:40,249 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.18/byte-buddy-parent-1.12.18.pom
+2025-01-02 10:16:40,381 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.18/byte-buddy-parent-1.12.18.pom
+2025-01-02 10:16:40,544 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.pom
+2025-01-02 10:16:40,555 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.pom
+2025-01-02 10:16:40,648 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2025-01-02 10:16:40,736 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2025-01-02 10:16:40,833 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.pom
+2025-01-02 10:16:40,838 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.pom
+2025-01-02 10:16:40,957 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.1/jaxb-runtime-parent-2.3.1.pom
+2025-01-02 10:16:40,961 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.1/jaxb-runtime-parent-2.3.1.pom
+2025-01-02 10:16:41,090 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.1/jaxb-parent-2.3.1.pom
+2025-01-02 10:16:41,113 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.1/jaxb-parent-2.3.1.pom
+2025-01-02 10:16:41,234 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.1/jaxb-bom-ext-2.3.1.pom
+2025-01-02 10:16:41,239 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.1/jaxb-bom-ext-2.3.1.pom
+2025-01-02 10:16:41,346 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.1/jaxb-bom-2.3.1.pom
+2025-01-02 10:16:41,353 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.1/jaxb-bom-2.3.1.pom
+2025-01-02 10:16:41,455 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.pom
+2025-01-02 10:16:41,464 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.pom
+2025-01-02 10:16:41,568 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.1/jaxb-txw-parent-2.3.1.pom
+2025-01-02 10:16:41,580 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.1/jaxb-txw-parent-2.3.1.pom
+2025-01-02 10:16:41,784 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.pom
+2025-01-02 10:16:41,799 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.pom
+2025-01-02 10:16:41,916 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons/3.0.7/istack-commons-3.0.7.pom
+2025-01-02 10:16:41,922 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons/3.0.7/istack-commons-3.0.7.pom
+2025-01-02 10:16:42,045 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.pom
+2025-01-02 10:16:42,060 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.pom
+2025-01-02 10:16:42,158 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.pom
+2025-01-02 10:16:42,188 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.pom
+2025-01-02 10:16:42,305 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/fastinfoset-project/1.2.15/fastinfoset-project-1.2.15.pom
+2025-01-02 10:16:42,338 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/fastinfoset-project/1.2.15/fastinfoset-project-1.2.15.pom
+2025-01-02 10:16:42,484 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.0.0.RELEASE/spring-context-5.0.0.RELEASE.jar
+2025-01-02 10:16:43,411 [Worker-77: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.0.0.RELEASE/spring-context-5.0.0.RELEASE.jar
+2025-01-02 10:16:43,513 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar
+2025-01-02 10:16:43,774 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar
+2025-01-02 10:16:43,775 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar
+2025-01-02 10:16:43,809 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.jar
+2025-01-02 10:16:43,809 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar
+2025-01-02 10:16:43,836 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar
+2025-01-02 10:16:43,841 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar
+2025-01-02 10:16:43,950 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar
+2025-01-02 10:16:44,008 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar
+2025-01-02 10:16:44,227 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar
+2025-01-02 10:16:44,334 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar
+2025-01-02 10:16:48,271 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.jar
+2025-01-02 10:16:48,497 [Worker-77: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:16:48,498 [Worker-77: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:16:49,008 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-02 10:16:49,254 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:16:49,826 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.0.0.RELEASE/spring-context-5.0.0.RELEASE-sources.jar
+2025-01-02 10:16:50,001 [Worker-73: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TechSpring_Hibernate/src/main/resources
+2025-01-02 10:16:50,006 [Worker-73: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TechSpring_Hibernate/src/test/resources
+2025-01-02 10:16:51,271 [Worker-73: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for TechSpring_Hibernate
+2025-01-02 10:16:51,286 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 1.00 sec 
+2025-01-02 10:16:51,494 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.0.0.RELEASE/spring-context-5.0.0.RELEASE-sources.jar
+2025-01-02 10:16:51,497 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.0.0.RELEASE
+2025-01-02 10:16:51,534 [Worker-79: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:16:51,534 [Worker-79: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:16:51,826 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18-sources.jar
+2025-01-02 10:16:53,391 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18-sources.jar
+2025-01-02 10:16:53,393 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.12.18
+2025-01-02 10:16:53,928 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1-sources.jar
+2025-01-02 10:16:56,011 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1-sources.jar
+2025-01-02 10:16:56,014 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:2.3.1
+2025-01-02 10:16:56,407 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1-sources.jar
+2025-01-02 10:16:56,604 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1-sources.jar
+2025-01-02 10:16:56,608 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:2.3.1
+2025-01-02 10:16:56,892 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7-sources.jar
+2025-01-02 10:16:56,944 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7-sources.jar
+2025-01-02 10:16:56,950 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:3.0.7
+2025-01-02 10:16:57,303 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8-sources.jar
+2025-01-02 10:16:57,429 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8-sources.jar
+2025-01-02 10:16:57,432 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jvnet.staxex:stax-ex:1.8
+2025-01-02 10:16:57,906 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15-sources.jar
+2025-01-02 10:16:58,483 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15-sources.jar
+2025-01-02 10:16:58,485 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.fastinfoset:FastInfoset:1.2.15
+2025-01-02 10:17:17,682 [Worker-74: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:17:17,866 [Worker-74: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:17:17,866 [Worker-74: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:17:25,371 [Worker-79: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:17:25,538 [Worker-79: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:17:25,539 [Worker-79: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:18:11,489 [Worker-76: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:18:11,748 [Worker-76: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:18:11,751 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:18:11,753 [Worker-76: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:18:11,755 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:18:11,755 [Worker-76: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:18:11,755 [Worker-76: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:19:54,589 [Worker-80: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:19:54,592 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:19:54,594 [Worker-80: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:19:54,596 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:21:08,496 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:21:08,499 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:21:08,502 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:21:08,504 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:22:30,646 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:22:30,873 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:22:30,875 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:22:30,878 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:22:30,879 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:22:30,880 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:22:30,880 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:22:38,200 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:22:38,203 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:22:38,206 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:22:38,207 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:23:55,817 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-02 10:23:55,955 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:23:56,478 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TechSpring_Hibernate/src/main/java
+2025-01-02 10:23:56,478 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TechSpring_Hibernate/src/main/resources
+2025-01-02 10:23:56,479 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TechSpring_Hibernate/src/test/java
+2025-01-02 10:23:56,480 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TechSpring_Hibernate/src/test/resources
+2025-01-02 10:23:56,818 [Worker-71: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for TechSpring_Hibernate
+2025-01-02 10:23:56,829 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-01-02 10:23:57,104 [Worker-71: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:23:57,105 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 10:23:57,112 [Worker-71: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:23:57,113 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:23:57,114 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:23:57,114 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:24:03,723 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:24:03,726 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:24:03,728 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:24:03,730 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:24:36,148 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:24:36,150 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:24:36,151 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:24:36,153 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:24:41,832 [Worker-73: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:24:41,833 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:24:41,836 [Worker-73: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:24:41,838 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:24:48,388 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:24:48,390 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:24:48,393 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:24:48,394 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:24:59,434 [Worker-77: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:24:59,435 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 10:24:59,439 [Worker-77: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:24:59,440 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:26:38,165 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:26:38,167 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:26:38,170 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:26:38,171 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:26:40,430 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:26:40,431 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 10:26:40,433 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:26:40,434 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:28:09,407 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 10:28:09,411 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_JSP\src\test\resources
+2025-01-02 10:28:31,841 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:28:32,117 [Worker-78: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:28:32,119 [Worker-78: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:28:32,428 [Worker-78: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:28:32,430 [Worker-78: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:28:32,628 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:28:32,630 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:28:32,632 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:28:32,633 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:28:32,634 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:28:32,634 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:28:33,002 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:28:33,004 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 10:28:33,009 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:28:33,010 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:28:35,262 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:28:35,264 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 10:28:35,267 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:28:35,268 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:29:24,680 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:29:24,682 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 10:29:24,686 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:29:24,688 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:32:41,082 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:32:41,084 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:32:41,086 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:32:41,087 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:33:43,961 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:33:43,962 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:33:43,964 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:33:43,965 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:33:53,066 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:33:53,068 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:33:53,070 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:33:53,071 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:33:55,224 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:33:55,227 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:33:55,230 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:33:55,232 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:34:41,170 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:34:41,173 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:34:41,176 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:34:41,178 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:37:10,888 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:37:10,890 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:37:10,892 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:37:10,893 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:37:54,035 [Worker-73: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:37:54,037 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:37:54,039 [Worker-73: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:37:54,040 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:39:22,136 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:39:22,138 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 10:39:22,140 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:39:22,142 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:41:39,181 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:41:39,183 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:41:39,185 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:41:39,187 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:44:17,331 [Worker-83: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:44:17,658 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:44:17,660 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:44:18,044 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:44:18,048 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:44:18,051 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:44:18,052 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:44:18,052 [Worker-83: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:44:18,052 [Worker-83: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:44:28,055 [Worker-83: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:44:28,802 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/5.3.12/jakarta.servlet-api-5.3.12.pom
+2025-01-02 10:44:28,808 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet:jakarta.servlet-api:jar:5.3.12 is missing, no dependency information available
+2025-01-02 10:44:29,114 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:44:29,116 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:44:29,156 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:44:29,158 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:44:29,531 [Worker-83: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/5.3.12/jakarta.servlet-api-5.3.12.jar
+2025-01-02 10:44:29,594 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:44:29,596 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:44:29,663 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:44:29,665 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:44:29,896 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:44:29,899 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:44:29,902 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:44:29,904 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:44:29,905 [Worker-83: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:44:29,905 [Worker-83: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:44:31,371 [Worker-89: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/5.3.12/jakarta.servlet-api-5.3.12-sources.jar
+2025-01-02 10:44:31,376 [Worker-89: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for jakarta.servlet:jakarta.servlet-api:5.3.12
+org.eclipse.core.runtime.CoreException: Could not resolve artifact jakarta.servlet:jakarta.servlet-api:jar:sources:5.3.12
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-02 10:44:55,562 [Worker-88: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:44:55,815 [Worker-88: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:44:55,817 [Worker-88: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:44:55,867 [Worker-88: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:44:55,869 [Worker-88: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:44:56,056 [Worker-88: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:44:56,058 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:44:56,060 [Worker-88: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:44:56,061 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:44:56,061 [Worker-88: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:44:56,061 [Worker-88: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:44:57,219 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:44:57,220 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 10:44:57,232 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:44:57,233 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:45:42,089 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-02 10:45:42,225 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:45:42,447 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:45:42,449 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:45:43,081 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TechSpring_Hibernate/src/main/java
+2025-01-02 10:45:43,081 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TechSpring_Hibernate/src/main/resources
+2025-01-02 10:45:43,081 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TechSpring_Hibernate/src/test/java
+2025-01-02 10:45:43,082 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TechSpring_Hibernate/src/test/resources
+2025-01-02 10:45:43,542 [Worker-88: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for TechSpring_Hibernate
+2025-01-02 10:45:43,556 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-01-02 10:45:43,743 [Worker-88: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:45:43,744 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 10:45:43,751 [Worker-88: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:45:43,751 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:45:43,753 [Worker-88: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:45:43,753 [Worker-88: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:46:20,460 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [645])
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2025-01-02 10:46:20,462 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2025-01-02 10:46:20,463 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2025-01-02 10:46:20,463 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2025-01-02 10:46:20,463 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2025-01-02 10:46:20,463 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2025-01-02 10:46:20,463 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2025-01-02 10:46:20,463 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2025-01-02 10:46:20,463 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2025-01-02 10:46:20,463 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2025-01-02 10:46:20,463 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2025-01-02 10:46:20,464 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2025-01-02 10:46:20,464 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2025-01-02 10:46:20,464 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2025-01-02 10:46:20,464 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2025-01-02 10:46:20,464 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2025-01-02 10:46:20,464 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2025-01-02 10:46:20,464 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2025-01-02 10:46:20,464 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2025-01-02 10:46:20,464 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2025-01-02 10:46:20,465 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2025-01-02 10:46:20,465 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2025-01-02 10:46:20,465 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2025-01-02 10:46:20,465 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2025-01-02 10:46:20,465 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2025-01-02 10:46:20,465 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-02 10:46:20,465 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2025-01-02 10:46:20,465 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2025-01-02 10:46:20,466 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2025-01-02 10:46:20,466 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2025-01-02 10:46:20,466 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2025-01-02 10:46:20,466 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [1022])
+2025-01-02 10:46:20,467 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\com.google.guava_33.3.1.jre.jar
+2025-01-02 10:46:20,467 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1201])
+2025-01-02 10:46:20,467 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\slf4j.api_2.0.16.jar
+2025-01-02 10:46:20,467 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [1032])
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1031])
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [1038])
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.apache.commons.cli_1.9.0.jar
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.17.0 [1043])
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.apache.commons.lang3_3.17.0.jar
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2025-01-02 10:46:20,469 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-02 10:46:20,473 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Eclipse Workspace\TechSpring_Hibernate":
+2025-01-02 10:46:20,473 [Worker-91: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2025-01-02 10:49:02,715 [Worker-92: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:49:03,021 [Worker-92: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:49:03,022 [Worker-92: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:49:03,339 [Worker-92: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:49:03,342 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:49:03,345 [Worker-92: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:49:03,346 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:49:03,346 [Worker-92: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:49:03,346 [Worker-92: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 10:49:16,299 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [645])
+2025-01-02 10:49:16,300 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2025-01-02 10:49:16,300 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2025-01-02 10:49:16,300 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2025-01-02 10:49:16,300 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2025-01-02 10:49:16,301 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2025-01-02 10:49:16,301 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2025-01-02 10:49:16,301 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-02 10:49:16,301 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2025-01-02 10:49:16,301 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2025-01-02 10:49:16,301 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2025-01-02 10:49:16,301 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2025-01-02 10:49:16,301 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2025-01-02 10:49:16,301 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2025-01-02 10:49:16,302 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2025-01-02 10:49:16,302 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2025-01-02 10:49:16,302 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2025-01-02 10:49:16,302 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2025-01-02 10:49:16,302 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2025-01-02 10:49:16,302 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2025-01-02 10:49:16,302 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2025-01-02 10:49:16,302 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2025-01-02 10:49:16,303 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2025-01-02 10:49:16,303 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2025-01-02 10:49:16,303 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2025-01-02 10:49:16,303 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2025-01-02 10:49:16,303 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2025-01-02 10:49:16,303 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2025-01-02 10:49:16,303 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2025-01-02 10:49:16,303 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2025-01-02 10:49:16,303 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2025-01-02 10:49:16,304 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2025-01-02 10:49:16,304 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2025-01-02 10:49:16,304 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2025-01-02 10:49:16,304 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2025-01-02 10:49:16,304 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2025-01-02 10:49:16,304 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2025-01-02 10:49:16,304 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2025-01-02 10:49:16,304 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-02 10:49:16,305 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2025-01-02 10:49:16,305 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2025-01-02 10:49:16,305 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2025-01-02 10:49:16,305 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2025-01-02 10:49:16,305 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2025-01-02 10:49:16,305 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [1022])
+2025-01-02 10:49:16,306 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\com.google.guava_33.3.1.jre.jar
+2025-01-02 10:49:16,306 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1201])
+2025-01-02 10:49:16,306 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\slf4j.api_2.0.16.jar
+2025-01-02 10:49:16,306 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [1032])
+2025-01-02 10:49:16,306 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2025-01-02 10:49:16,306 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1031])
+2025-01-02 10:49:16,307 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2025-01-02 10:49:16,307 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [1038])
+2025-01-02 10:49:16,307 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.apache.commons.cli_1.9.0.jar
+2025-01-02 10:49:16,307 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-01-02 10:49:16,307 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-02 10:49:16,307 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.17.0 [1043])
+2025-01-02 10:49:16,307 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.apache.commons.lang3_3.17.0.jar
+2025-01-02 10:49:16,307 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2025-01-02 10:49:16,307 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-02 10:49:16,309 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Eclipse Workspace\TechSpring_Hibernate":
+2025-01-02 10:49:16,309 [Worker-88: Launching Executing install in C__Eclipse Workspace_TechSpring_Hibernate] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2025-01-02 10:49:21,369 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.workspace.cli_0.3.1 [657])
+2025-01-02 10:49:21,369 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.workspace.cli_0.3.1.jar
+2025-01-02 10:49:21,866 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2025-01-02 10:49:21,878 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2025-01-02 10:49:21,881 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [645])
+2025-01-02 10:49:21,882 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2025-01-02 10:49:21,882 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2025-01-02 10:49:21,882 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2025-01-02 10:49:21,882 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2025-01-02 10:49:21,882 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2025-01-02 10:49:21,882 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2025-01-02 10:49:21,882 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-02 10:49:21,883 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2025-01-02 10:49:21,883 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2025-01-02 10:49:21,883 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2025-01-02 10:49:21,883 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2025-01-02 10:49:21,883 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2025-01-02 10:49:21,883 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2025-01-02 10:49:21,883 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2025-01-02 10:49:21,883 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2025-01-02 10:49:21,883 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2025-01-02 10:49:21,884 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2025-01-02 10:49:21,884 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2025-01-02 10:49:21,884 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2025-01-02 10:49:21,884 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2025-01-02 10:49:21,884 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2025-01-02 10:49:21,884 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2025-01-02 10:49:21,884 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2025-01-02 10:49:21,884 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2025-01-02 10:49:21,884 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2025-01-02 10:49:21,885 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2025-01-02 10:49:21,885 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2025-01-02 10:49:21,885 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2025-01-02 10:49:21,885 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2025-01-02 10:49:21,885 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2025-01-02 10:49:21,885 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2025-01-02 10:49:21,885 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2025-01-02 10:49:21,885 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2025-01-02 10:49:21,885 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2025-01-02 10:49:21,886 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2025-01-02 10:49:21,886 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2025-01-02 10:49:21,886 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2025-01-02 10:49:21,886 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-02 10:49:21,886 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2025-01-02 10:49:21,886 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2025-01-02 10:49:21,886 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2025-01-02 10:49:21,886 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2025-01-02 10:49:21,886 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2025-01-02 10:49:21,887 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [1022])
+2025-01-02 10:49:21,887 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\com.google.guava_33.3.1.jre.jar
+2025-01-02 10:49:21,887 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1201])
+2025-01-02 10:49:21,887 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\slf4j.api_2.0.16.jar
+2025-01-02 10:49:21,887 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [1032])
+2025-01-02 10:49:21,887 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2025-01-02 10:49:21,887 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1031])
+2025-01-02 10:49:21,887 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2025-01-02 10:49:21,887 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [1038])
+2025-01-02 10:49:21,888 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.apache.commons.cli_1.9.0.jar
+2025-01-02 10:49:21,888 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-01-02 10:49:21,888 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-02 10:49:21,888 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.17.0 [1043])
+2025-01-02 10:49:21,888 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.apache.commons.lang3_3.17.0.jar
+2025-01-02 10:49:21,888 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2025-01-02 10:49:21,888 [Worker-88: Searching...] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-02 10:49:22,235 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.8.0/plexus-classworlds-2.8.0-sources.jar
+2025-01-02 10:49:22,330 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.8.0/plexus-classworlds-2.8.0-sources.jar
+2025-01-02 10:49:22,649 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14-sources.jar
+2025-01-02 10:49:23,502 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14-sources.jar
+2025-01-02 10:49:23,976 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16-sources.jar
+2025-01-02 10:49:24,848 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16-sources.jar
+2025-01-02 10:49:25,882 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1-sources.jar
+2025-01-02 10:49:26,439 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1-sources.jar
+2025-01-02 10:49:26,787 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.36/jcl-over-slf4j-1.7.36-sources.jar
+2025-01-02 10:49:26,828 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.36/jcl-over-slf4j-1.7.36-sources.jar
+2025-01-02 10:49:27,140 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.9.7/maven-artifact-3.9.7-sources.jar
+2025-01-02 10:49:27,312 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.9.7/maven-artifact-3.9.7-sources.jar
+2025-01-02 10:49:27,977 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.9.7/maven-builder-support-3.9.7-sources.jar
+2025-01-02 10:49:27,993 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.9.7/maven-builder-support-3.9.7-sources.jar
+2025-01-02 10:49:28,563 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.9.7/maven-compat-3.9.7-sources.jar
+2025-01-02 10:49:29,265 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.9.7/maven-compat-3.9.7-sources.jar
+2025-01-02 10:49:29,663 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.9.7/maven-core-3.9.7-sources.jar
+2025-01-02 10:49:30,545 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.9.7/maven-core-3.9.7-sources.jar
+2025-01-02 10:49:30,926 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.9.7/maven-embedder-3.9.7-sources.jar
+2025-01-02 10:49:31,134 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.9.7/maven-embedder-3.9.7-sources.jar
+2025-01-02 10:49:31,756 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.9.7/maven-model-3.9.7-sources.jar
+2025-01-02 10:49:32,027 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.9.7/maven-model-3.9.7-sources.jar
+2025-01-02 10:49:32,453 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.9.7/maven-model-builder-3.9.7-sources.jar
+2025-01-02 10:49:32,832 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.9.7/maven-model-builder-3.9.7-sources.jar
+2025-01-02 10:49:33,349 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.9.7/maven-plugin-api-3.9.7-sources.jar
+2025-01-02 10:49:33,525 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.9.7/maven-plugin-api-3.9.7-sources.jar
+2025-01-02 10:49:34,368 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.9.7/maven-repository-metadata-3.9.7-sources.jar
+2025-01-02 10:49:34,449 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.9.7/maven-repository-metadata-3.9.7-sources.jar
+2025-01-02 10:49:34,813 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.9.20/maven-resolver-api-1.9.20-sources.jar
+2025-01-02 10:49:35,253 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.9.20/maven-resolver-api-1.9.20-sources.jar
+2025-01-02 10:49:35,637 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-connector-basic/1.9.20/maven-resolver-connector-basic-1.9.20-sources.jar
+2025-01-02 10:49:35,688 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-connector-basic/1.9.20/maven-resolver-connector-basic-1.9.20-sources.jar
+2025-01-02 10:49:35,979 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-impl/1.9.20/maven-resolver-impl-1.9.20-sources.jar
+2025-01-02 10:49:36,216 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-impl/1.9.20/maven-resolver-impl-1.9.20-sources.jar
+2025-01-02 10:49:36,546 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-named-locks/1.9.20/maven-resolver-named-locks-1.9.20-sources.jar
+2025-01-02 10:49:36,551 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-named-locks/1.9.20/maven-resolver-named-locks-1.9.20-sources.jar
+2025-01-02 10:49:36,873 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-resolver-provider/3.9.7/maven-resolver-provider-3.9.7-sources.jar
+2025-01-02 10:49:36,978 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-resolver-provider/3.9.7/maven-resolver-provider-3.9.7-sources.jar
+2025-01-02 10:49:37,316 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-spi/1.9.20/maven-resolver-spi-1.9.20-sources.jar
+2025-01-02 10:49:37,448 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-spi/1.9.20/maven-resolver-spi-1.9.20-sources.jar
+2025-01-02 10:49:37,801 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-transport-file/1.9.20/maven-resolver-transport-file-1.9.20-sources.jar
+2025-01-02 10:49:37,808 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-transport-file/1.9.20/maven-resolver-transport-file-1.9.20-sources.jar
+2025-01-02 10:49:38,144 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-transport-http/1.9.20/maven-resolver-transport-http-1.9.20-sources.jar
+2025-01-02 10:49:38,213 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-transport-http/1.9.20/maven-resolver-transport-http-1.9.20-sources.jar
+2025-01-02 10:49:38,532 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-transport-wagon/1.9.20/maven-resolver-transport-wagon-1.9.20-sources.jar
+2025-01-02 10:49:38,562 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-transport-wagon/1.9.20/maven-resolver-transport-wagon-1.9.20-sources.jar
+2025-01-02 10:49:39,162 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.9.20/maven-resolver-util-1.9.20-sources.jar
+2025-01-02 10:49:39,352 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.9.20/maven-resolver-util-1.9.20-sources.jar
+2025-01-02 10:49:40,133 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.9.7/maven-settings-3.9.7-sources.jar
+2025-01-02 10:49:40,145 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.9.7/maven-settings-3.9.7-sources.jar
+2025-01-02 10:49:40,463 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.9.7/maven-settings-builder-3.9.7-sources.jar
+2025-01-02 10:49:40,550 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.9.7/maven-settings-builder-3.9.7-sources.jar
+2025-01-02 10:49:40,852 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.4.2/maven-shared-utils-3.4.2-sources.jar
+2025-01-02 10:49:41,047 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.4.2/maven-shared-utils-3.4.2-sources.jar
+2025-01-02 10:49:41,436 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.9.0.M2/org.eclipse.sisu.inject-0.9.0.M2-sources.jar
+2025-01-02 10:49:41,855 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.9.0.M2/org.eclipse.sisu.inject-0.9.0.M2-sources.jar
+2025-01-02 10:49:42,147 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.9.0.M2/org.eclipse.sisu.plexus-0.9.0.M2-sources.jar
+2025-01-02 10:49:42,407 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.9.0.M2/org.eclipse.sisu.plexus-0.9.0.M2-sources.jar
+2025-01-02 10:49:42,704 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-cipher/2.0/plexus-cipher-2.0-sources.jar
+2025-01-02 10:49:42,732 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-cipher/2.0/plexus-cipher-2.0-sources.jar
+2025-01-02 10:49:43,068 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.0/plexus-component-annotations-2.1.0-sources.jar
+2025-01-02 10:49:43,072 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.0/plexus-component-annotations-2.1.0-sources.jar
+2025-01-02 10:49:43,457 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.27/plexus-interpolation-1.27-sources.jar
+2025-01-02 10:49:43,674 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.27/plexus-interpolation-1.27-sources.jar
+2025-01-02 10:49:44,043 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-sec-dispatcher/2.0/plexus-sec-dispatcher-2.0-sources.jar
+2025-01-02 10:49:44,088 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-sec-dispatcher/2.0/plexus-sec-dispatcher-2.0-sources.jar
+2025-01-02 10:49:44,352 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.5.1/plexus-utils-3.5.1-sources.jar
+2025-01-02 10:49:44,668 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.5.1/plexus-utils-3.5.1-sources.jar
+2025-01-02 10:49:45,018 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/3.5.3/wagon-file-3.5.3-sources.jar
+2025-01-02 10:49:45,027 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/3.5.3/wagon-file-3.5.3-sources.jar
+2025-01-02 10:49:45,397 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http/3.5.3/wagon-http-3.5.3-sources.jar
+2025-01-02 10:49:45,431 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http/3.5.3/wagon-http-3.5.3-sources.jar
+2025-01-02 10:49:45,781 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-shared/3.5.3/wagon-http-shared-3.5.3-sources.jar
+2025-01-02 10:49:45,866 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-shared/3.5.3/wagon-http-shared-3.5.3-sources.jar
+2025-01-02 10:49:46,237 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/3.5.3/wagon-provider-api-3.5.3-sources.jar
+2025-01-02 10:49:46,505 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/3.5.3/wagon-provider-api-3.5.3-sources.jar
+2025-01-02 10:49:46,859 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-slf4j-provider/3.9.7/maven-slf4j-provider-3.9.7-sources.jar
+2025-01-02 10:49:46,879 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-slf4j-provider/3.9.7/maven-slf4j-provider-3.9.7-sources.jar
+2025-01-02 10:49:47,155 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre-sources.jar
+2025-01-02 10:49:49,537 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre-sources.jar
+2025-01-02 10:49:49,932 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16-sources.jar
+2025-01-02 10:49:50,176 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16-sources.jar
+2025-01-02 10:49:50,631 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.9.0/commons-cli-1.9.0-sources.jar
+2025-01-02 10:49:50,743 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.9.0/commons-cli-1.9.0-sources.jar
+2025-01-02 10:49:51,045 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0-sources.jar
+2025-01-02 10:49:51,737 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0-sources.jar
+2025-01-02 10:49:52,091 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0-sources.jar
+2025-01-02 10:49:52,937 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0-sources.jar
+2025-01-02 10:49:53,195 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2-sources.jar
+2025-01-02 10:49:53,299 [Worker-88: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2-sources.jar
+2025-01-02 10:50:45,262 [Worker-88: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 10:50:45,570 [Worker-88: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_JSP: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_JSP/target/classes
+2025-01-02 10:50:45,572 [Worker-88: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 10:50:45,805 [Worker-88: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:50:45,807 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 10:50:45,810 [Worker-88: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 10:50:45,811 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 10:50:45,811 [Worker-88: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 10:50:45,811 [Worker-88: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 11:02:31,748 [Worker-96: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\SpringMVC_Hibernate\pom.xml.
+2025-01-02 11:02:32,032 [Worker-96: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:02:32,100 [Worker-96: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 11:02:32,197 [Worker-96: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_Hibernate: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_Hibernate/target/classes
+2025-01-02 11:02:32,199 [Worker-96: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:02:32,264 [Worker-96: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:02:32,695 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 11:02:32,705 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:02:33,166 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 11:02:33,171 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:02:33,172 [Worker-102: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMVC_Hibernate
+2025-01-02 11:02:33,172 [Worker-102: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMVC_Hibernate
+2025-01-02 11:02:33,266 [Worker-102: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 11:02:33,267 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 11:02:33,273 [Worker-102: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 11:02:33,274 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 11:02:33,538 [Worker-99: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.tecLink.springMVC:SpringMVC_JSP:jar:sources:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-02 11:11:07,164 [Worker-103: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\SpringMVC_Hibernate\pom.xml.
+2025-01-02 11:11:07,417 [Worker-103: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:11:07,463 [Worker-103: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 11:11:07,499 [Worker-103: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_Hibernate: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_Hibernate/target/classes
+2025-01-02 11:11:07,500 [Worker-103: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:11:07,563 [Worker-103: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:11:07,990 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 11:11:07,994 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:11:07,995 [Worker-103: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMVC_Hibernate
+2025-01-02 11:11:07,995 [Worker-103: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMVC_Hibernate
+2025-01-02 11:11:08,860 [Worker-105: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.tecLink.springMVC:SpringMVC_JSP:jar:javadoc:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-02 11:11:09,235 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 11:11:09,244 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:13:41,926 [Worker-105: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\SpringMVC_Hibernate\pom.xml.
+2025-01-02 11:13:42,624 [Worker-105: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.1.0/mysql-connector-j-8.1.0.pom
+2025-01-02 11:13:42,642 [Worker-105: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.1.0/mysql-connector-j-8.1.0.pom
+2025-01-02 11:13:42,746 [Worker-105: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.pom
+2025-01-02 11:13:42,758 [Worker-105: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.pom
+2025-01-02 11:13:43,037 [Worker-105: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.21.9/protobuf-parent-3.21.9.pom
+2025-01-02 11:13:43,053 [Worker-105: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.21.9/protobuf-parent-3.21.9.pom
+2025-01-02 11:13:43,349 [Worker-105: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.21.9/protobuf-bom-3.21.9.pom
+2025-01-02 11:13:43,358 [Worker-105: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.21.9/protobuf-bom-3.21.9.pom
+2025-01-02 11:13:43,619 [Worker-105: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:13:43,661 [Worker-105: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:13:44,044 [Worker-105: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.1.0/mysql-connector-j-8.1.0.jar
+2025-01-02 11:13:52,040 [Worker-105: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.1.0/mysql-connector-j-8.1.0.jar
+2025-01-02 11:13:52,272 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar
+2025-01-02 11:14:00,969 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar
+2025-01-02 11:14:01,009 [Worker-105: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 11:14:01,040 [Worker-105: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_Hibernate: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_Hibernate/target/classes
+2025-01-02 11:14:01,042 [Worker-105: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:14:01,107 [Worker-105: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:14:01,478 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 11:14:01,482 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:14:01,482 [Worker-105: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMVC_Hibernate
+2025-01-02 11:14:01,482 [Worker-105: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMVC_Hibernate
+2025-01-02 11:14:01,516 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-02 11:14:01,566 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\SpringMVC_Hibernate\pom.xml.
+2025-01-02 11:14:01,875 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:14:02,613 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.1.0/mysql-connector-j-8.1.0-sources.jar
+2025-01-02 11:14:02,699 [Worker-106: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMVC_Hibernate/src/main/java
+2025-01-02 11:14:02,699 [Worker-106: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMVC_Hibernate/src/main/resources
+2025-01-02 11:14:02,700 [Worker-106: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMVC_Hibernate/src/test/java
+2025-01-02 11:14:02,700 [Worker-106: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMVC_Hibernate/src/test/resources
+2025-01-02 11:14:03,133 [Worker-106: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMVC_Hibernate
+2025-01-02 11:14:03,148 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-01-02 11:14:03,590 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 11:14:03,600 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:14:03,601 [Worker-105: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMVC_Hibernate
+2025-01-02 11:14:03,601 [Worker-105: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMVC_Hibernate
+2025-01-02 11:14:03,682 [Worker-105: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 11:14:03,683 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 11:14:03,686 [Worker-105: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 11:14:03,688 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 11:14:05,358 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.1.0/mysql-connector-j-8.1.0-sources.jar
+2025-01-02 11:14:05,362 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:8.1.0
+2025-01-02 11:14:05,849 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9-sources.jar
+2025-01-02 11:14:07,408 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9-sources.jar
+2025-01-02 11:14:07,411 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.21.9
+2025-01-02 11:14:07,414 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:8.1.0
+2025-01-02 11:14:07,417 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.21.9
+2025-01-02 11:17:44,859 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2025-01-02 11:17:44,886 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2025-01-02 11:17:44,889 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2025-01-02 11:17:44,895 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2025-01-02 11:21:19,789 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 11:21:19,793 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:22:27,548 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 11:22:27,552 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:25:13,201 [Worker-108: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hibernate.lee:TechSpring_Hibernate:0.0.1-SNAPSHOT @ C:\Eclipse Workspace\TechSpring_Hibernate\pom.xml.
+2025-01-02 11:25:13,487 [Worker-108: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SpringMVC_Hibernate: com.tecLink.springMVC:SpringMVC_JSP:0.0.1-SNAPSHOT with classifier  to /SpringMVC_Hibernate/target/classes
+2025-01-02 11:25:13,490 [Worker-108: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/TechSpringMVC: com.techlink.springmvc:techSpringMVC:0.0.1-SNAPSHOT with classifier  to /TechSpringMVC/target/classes
+2025-01-02 11:25:13,703 [Worker-108: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 11:25:13,705 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-02 11:25:13,707 [Worker-108: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 11:25:13,708 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 11:25:13,708 [Worker-108: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TechSpring_Hibernate
+2025-01-02 11:25:13,708 [Worker-108: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TechSpring_Hibernate
+2025-01-02 11:29:55,638 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:29:55,640 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:32:57,525 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:32:57,528 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:33:15,580 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:33:15,583 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:37:13,135 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:37:13,139 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:37:20,297 [Worker-115: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 11:37:20,298 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 11:37:20,300 [Worker-115: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 11:37:20,301 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 11:37:28,459 [Worker-119: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 11:37:28,460 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-02 11:37:28,462 [Worker-119: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-02 11:37:28,462 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-02 11:40:15,377 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 11:40:15,381 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:40:51,095 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 11:40:51,099 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:44:52,864 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:44:52,868 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:45:50,972 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:45:50,974 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:47:26,963 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:47:26,966 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:52:05,461 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:52:05,463 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:54:40,791 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:54:40,794 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:54:50,143 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:54:50,146 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:56:26,880 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:56:26,883 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:57:07,914 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:57:07,917 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:57:27,037 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-02 11:57:27,041 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:57:52,944 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:57:52,948 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 11:59:17,290 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 11:59:17,292 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 12:03:24,253 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 12:03:24,256 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 12:05:02,181 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 12:05:02,184 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 12:06:07,024 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 12:06:07,028 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 13:41:29,129 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 13:41:29,132 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 13:44:02,908 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 13:44:02,910 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 13:45:36,263 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 13:45:36,266 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 13:47:59,649 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 13:47:59,653 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 13:48:11,837 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 13:48:11,840 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 13:48:44,754 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 13:48:44,756 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 13:50:59,374 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 13:50:59,379 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 13:52:38,128 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 13:52:38,131 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:00:03,630 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:00:03,633 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:00:29,000 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:00:29,002 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:00:31,520 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:00:31,523 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:00:55,618 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:00:55,620 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:11:18,730 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:11:18,733 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:13:21,335 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:13:21,338 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:13:38,117 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:13:38,119 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:15:50,340 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:15:50,342 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:15:52,792 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:15:52,794 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:16:35,584 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:16:35,588 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:22:09,922 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-02 14:22:09,925 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse Workspace\SpringMVC_Hibernate\src\test\resources
+2025-01-02 14:22:54,867 [Worker-164: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration DemoApplication (4) references non-existing project TechSpring_Hibernate.
+org.eclipse.core.runtime.CoreException: Launch configuration DemoApplication (4) references non-existing project TechSpring_Hibernate.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-02 14:22:54,869 [Worker-164: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration DemoApplication (4) references non-existing project TechSpring_Hibernate.
+org.eclipse.core.runtime.CoreException: Launch configuration DemoApplication (4) references non-existing project TechSpring_Hibernate.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-02 14:22:54,872 [Worker-164: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration DemoApplication (4) references non-existing project TechSpring_Hibernate.
+org.eclipse.core.runtime.CoreException: Launch configuration DemoApplication (4) references non-existing project TechSpring_Hibernate.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
