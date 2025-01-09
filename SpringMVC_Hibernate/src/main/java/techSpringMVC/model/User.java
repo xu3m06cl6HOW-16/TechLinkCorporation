@@ -1,5 +1,8 @@
 package techSpringMVC.model;
-
+/*
+ * HQL 是對java物件做查詢 FROM User是給類別
+ * 
+ */
 import java.util.Date;
 
 import javax.persistence.Column;

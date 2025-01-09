@@ -8,6 +8,10 @@
 		<action name="product-input">
 			<result>/WEB-INF/pages/input.jsp</result>
 		</action>
+		
+		<action name="product-save" class="com.struts2.helloworld.Product" method="save">
+			<result name="details">/WEB-INF/pages/details.jsp</result>
+		</action>
 	
 	</package> 
 

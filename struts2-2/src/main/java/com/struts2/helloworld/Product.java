@@ -57,6 +57,10 @@ public class Product {
 		return "Product [productId=" + productId + ", productName=" + productName + ", productDesc=" + productDesc
 				+ ", productPrice=" + productPrice + "]";
 	}
-
+	
+	public String save() {
+		System.out.println("save:" + this);
+		return "details";
+	}
 	
 }
